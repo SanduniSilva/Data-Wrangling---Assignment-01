@@ -80,3 +80,7 @@ Use the data file “Flights_data.csv” for Question 2. Data set contains fight
     (iv)	Do you think dropping records containing missing values is reasonable in this data? Give reasons.
 
 …………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………..
+
+[View Code](https://github.com/SanduniSilva/Data-Wrangling---Assignment-01/blob/8aa53274dd01547b9cb125b3f85642809262dc9f/code.ipynb)
+
+
